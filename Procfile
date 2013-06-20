@@ -1,1 +1,1 @@
-web: python target/server.py --port=8000
+web: python target/server.py --port=$PORT
