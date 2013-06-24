@@ -15,9 +15,3 @@ tests:
     module: test_healthcheck
     class: HealthCheckTest
     test: test_healthcheck
-  -
-    title: App in Tsuru
-    description: Teste com percentual de erro.
-    module: test_home
-    class: HomeTest
-    test: test_home
